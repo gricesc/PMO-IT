@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<record_update sys_domain="global" table="sys_ui_application">
+    <sys_ui_application action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <hint/>
+        <name>PMO - IT</name>
+        <order/>
+        <roles>x_snc_ppm_it.project_task_user</roles>
+        <sys_class_name>sys_ui_application</sys_class_name>
+        <sys_created_by>simon.grice</sys_created_by>
+        <sys_created_on>2017-11-14 21:08:09</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>972fd1f70f960300eceaeeb8b1050e44</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>PMO - IT</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="PPM IT" source="x_snc_ppm_it">b318d1bf0f560300eceaeeb8b1050eb2</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="PPM IT">b318d1bf0f560300eceaeeb8b1050eb2</sys_scope>
+        <sys_update_name>sys_ui_application_972fd1f70f960300eceaeeb8b1050e44</sys_update_name>
+        <sys_updated_by>simon.grice</sys_updated_by>
+        <sys_updated_on>2017-11-14 21:08:09</sys_updated_on>
+    </sys_ui_application>
+</record_update>

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<database>
+    <element extends="pm_portfolio" label="Portfolio" max_length="40" name="x_snc_ppm_it_portfolio" type="collection"/>
+</database>
